@@ -13,7 +13,9 @@ public class Main {
             System.out.println("El numero es negativo");
         } else {
             System.out.println("El numero es positivo");
-        } 
+        }
+
+
 
         //Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3
         //el bloque de código que tendrá el bucle deberá:
