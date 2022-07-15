@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3298f011-8495-4578-b93b-0695fdeab745" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3298f011-8495-4578-b93b-0695fdeab745" name="Changes" comment="Ejercicio 4 introducción a la programación" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +64,35 @@
       <option name="presentableId" value="Default" />
       <updated>1657831525436</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 4 introducción a la programación">
+      <created>1657846761193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657846761193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejercicio 4 introducción a la programación">
+      <created>1657846857712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657846857712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicio 4 introducción a la programación">
+      <created>1657846987552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657846987552</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio 4 introducción a la programación">
+      <created>1657846999957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657846999957</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 4 introducción a la programación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 4 introducción a la programación" />
   </component>
 </project>
