@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-21T07:08:38.769Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kpCZoCHw_isf1F88cAgb" version="20.2.5" type="github">
+<mxfile modified="2022-08-21T07:09:50.525Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RLtPcPCSDssqKqBnJ8uB" version="20.2.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1038" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="558.5" y="86.75" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-8" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="181.25" y="568" width="80" height="80" as="geometry" />
+          <mxGeometry x="198.25" y="568" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_ip;fillColor=#F58534;gradientColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="261.25" y="108.25" width="76.5" height="21" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="689" y="303.5" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-25" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=multipoint_meeting_server;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="945.25" y="86.75" width="50" height="50" as="geometry" />
+          <mxGeometry x="930.25" y="86.75" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-30" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon34;" vertex="1" parent="1">
           <mxGeometry x="754" y="95.25" width="50" height="35" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="660" y="102.25" width="76.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-59" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
-          <mxGeometry x="170" y="623" width="50" height="50" as="geometry" />
+          <mxGeometry x="187" y="623" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-61" value="le informamos a nuestro cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="754" y="160" width="60" height="20" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="923.75" y="240" width="76.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-63" value="los ponemos en contacto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="940.25" y="161.75" width="60" height="20" as="geometry" />
+          <mxGeometry x="925.25" y="161.75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-69" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.credentials;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="916.5" y="303.5" width="56" height="58" as="geometry" />
@@ -89,16 +89,16 @@
           <mxGeometry x="303.5" y="340" width="76.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-79" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/BillingHub.svg;" vertex="1" parent="1">
-          <mxGeometry x="190.75" y="303.5" width="61" height="61" as="geometry" />
+          <mxGeometry x="201.75" y="303.5" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-80" value="se le abona un % al transportista para que cubra gastos (peajes, diesel, etc)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="397.5" width="101.5" height="20" as="geometry" />
+          <mxGeometry x="181" y="397.5" width="101.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-82" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.transport;" vertex="1" parent="1">
           <mxGeometry x="430" y="313" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-81" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_ip;fillColor=#F58534;gradientColor=none;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="195" y="490" width="76.5" height="21" as="geometry" />
+          <mxGeometry x="211" y="490" width="76.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-84" value="el transportista acepta y traslada la carga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="448.75" y="387.5" width="60" height="20" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="372.25" y="610" width="76.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-87" value="seguimiento de la carga y comunicación permanente con el cliente y con el transportista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="215.75" y="694" width="101.5" height="20" as="geometry" />
+          <mxGeometry x="234.75" y="678" width="101.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xm-ksiIEv6j5-uSu17su-88" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.transport;" vertex="1" parent="1">
           <mxGeometry x="470" y="591" width="90" height="50" as="geometry" />
